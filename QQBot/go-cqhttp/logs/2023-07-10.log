@@ -1,0 +1,334 @@
+[2023-07-10 22:24:07] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-07-10 22:24:07] [WARNING]: 将在 5秒 后继续. 
+[2023-07-10 22:24:12] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-07-10 22:24:12] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-10 22:24:17] [WARNING]: 当前协议不支持二维码登录, 请配置账号密码登录. 
+[2023-07-10 22:25:01] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-07-10 22:25:01] [WARNING]: 将在 5秒 后继续. 
+[2023-07-10 22:25:06] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-10 22:25:30] [FATAL]: 扫码被用户取消. 
+[2023-07-10 22:28:26] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-07-10 22:28:26] [WARNING]: 将在 5秒 后继续. 
+[2023-07-10 22:28:31] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-10 22:28:42] [FATAL]: 扫码被用户取消. 
+[2023-07-10 22:28:49] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-07-10 22:28:49] [WARNING]: 将在 5秒 后继续. 
+[2023-07-10 22:28:54] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-10 22:29:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-10 22:29:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:29:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:30:31] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-10 22:30:36] [WARNING]: 警告: 配置文件内的QQ号 (2198517573) 与缓存内的QQ号 (2198517571) 不相同 
+[2023-07-10 22:30:36] [WARNING]: 1. 使用会话缓存继续. 
+[2023-07-10 22:30:36] [WARNING]: 2. 删除会话缓存并重启. 
+[2023-07-10 22:30:36] [WARNING]: 请选择: 
+[2023-07-10 22:30:51] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-10 22:30:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:30:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:30:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:31:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:32:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:33:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:34:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:35:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:35:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:35:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:35:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:35:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:35:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:35:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:35:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:36:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 22:37:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:38:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:39:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:40:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:41:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:42:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:43:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:44:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11 时出现错误: websocket: bad handshake 
+[2023-07-10 22:45:13] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-10 22:45:19] [WARNING]: 警告: 配置文件内的QQ号 (2198517573) 与缓存内的QQ号 (2198517571) 不相同 
+[2023-07-10 22:45:19] [WARNING]: 1. 使用会话缓存继续. 
+[2023-07-10 22:45:19] [WARNING]: 2. 删除会话缓存并重启. 
+[2023-07-10 22:45:19] [WARNING]: 请选择: 
+[2023-07-10 22:45:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-10 22:49:02] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-10 22:49:05] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-10 23:07:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-10 23:07:40] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-10 23:08:49] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-10 23:08:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-10 23:08:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:08:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:09:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:09:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:09:28] [ERROR]: 错误: 请先添加 隐灬空(1032928310) 为好友 
+[2023-07-10 23:10:24] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-10 23:10:25] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-10 23:10:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:10:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:12:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-10 23:12:40] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-10 23:12:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:12:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:27:19] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-10 23:27:20] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-10 23:27:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:27:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:27:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:27:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:27:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:27:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:32:44] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-10 23:32:49] [WARNING]: 警告: 配置文件内的QQ号 (2198517573) 与缓存内的QQ号 (2198517571) 不相同 
+[2023-07-10 23:32:49] [WARNING]: 1. 使用会话缓存继续. 
+[2023-07-10 23:32:49] [WARNING]: 2. 删除会话缓存并重启. 
+[2023-07-10 23:32:49] [WARNING]: 请选择: 
+[2023-07-10 23:32:55] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-10 23:50:20] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-10 23:50:22] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-10 23:50:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:50:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:50:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:50:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:50:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-10 23:50:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 

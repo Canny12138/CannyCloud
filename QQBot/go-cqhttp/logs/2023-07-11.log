@@ -1,0 +1,45 @@
+[2023-07-11 01:11:31] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 01:39:45] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 01:40:04] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 01:40:50] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 01:44:27] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64609->127.0.0.1:51736: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-07-11 01:44:32] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64609->127.0.0.1:51736: use of closed network connection 
+[2023-07-11 01:44:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 01:44:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 01:44:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 01:44:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 01:44:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 01:44:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 01:45:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 01:45:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 01:45:19] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 01:47:27] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-11 01:47:32] [WARNING]: 警告: 配置文件内的QQ号 (2198517573) 与缓存内的QQ号 (2198517571) 不相同 
+[2023-07-11 01:47:32] [WARNING]: 1. 使用会话缓存继续. 
+[2023-07-11 01:47:32] [WARNING]: 2. 删除会话缓存并重启. 
+[2023-07-11 01:47:32] [WARNING]: 请选择: 
+[2023-07-11 01:47:33] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-11 01:47:58] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 01:49:51] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-11 01:50:01] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-11 01:50:24] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 02:26:13] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 12:14:50] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-07-11 12:14:50] [ERROR]: 无法响应API调用(连接已断开?): websocket: close sent 
+[2023-07-11 12:14:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-11 12:27:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-07-11 12:27:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-11 12:27:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: websocket: bad handshake 
+[2023-07-11 12:27:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: websocket: bad handshake 
+[2023-07-11 12:44:20] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2023-07-11 12:44:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-11 12:54:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1012 
+[2023-07-11 12:54:59] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2023-07-11 12:55:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:51736/onebot/v11/ 时出现错误: dial tcp 127.0.0.1:51736: connectex: No connection could be made because the target machine actively refused it. 
+[2023-07-11 16:54:01] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 17:15:41] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 18:24:20] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 19:26:31] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2023-07-11 19:28:14] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 19:47:43] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-11 23:48:10] [WARNING]: 群消息发送失败: 账号可能被风控. 
